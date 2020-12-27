@@ -57,3 +57,4 @@ plugins:
  - jekyll-seo-tag
  
 baseurl: "/bruxe0000"
+url: "https://bruxe0000.github.io"
