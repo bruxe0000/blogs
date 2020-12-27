@@ -56,5 +56,5 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  
-baseurl: "/bruxe0000"
+baseurl: "/blogs"
 url: "https://bruxe0000.github.io"
